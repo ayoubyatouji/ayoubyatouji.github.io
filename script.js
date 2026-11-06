@@ -12,3 +12,5 @@ if (toggle && nav) {
   }));
 }
 document.getElementById("year").textContent = new Date().getFullYear();
+
+document.querySelectorAll("[data-img]").forEach(el=>{const i=new Image();i.onload=()=>{el.style.backgroundImage="url("+i.src+")";el.classList.add("has-img")};i.src=el.dataset.img});
