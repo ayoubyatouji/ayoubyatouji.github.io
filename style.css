@@ -54,3 +54,12 @@ a:focus-visible,button:focus-visible{outline-color:var(--v)}
 .blog-card{border:0}.blog-card:nth-child(1){background:#e4dcff}.blog-card:nth-child(2){background:#ffe3d6}.blog-card:nth-child(3){background:#d8f6e6}.blog-meta{color:var(--v)}
 .contact-box{background:linear-gradient(135deg,var(--v),#8a5bff)}.contact-box .section-label{color:var(--lem)}.contact-box .button-primary{background:var(--lem);color:#111}.contact-box .button-primary:hover{background:#fff}.contact-box .button-outline{border-color:#fff;color:#fff}.contact-box .button-outline:hover{background:#fff;color:var(--v)}.contact-box>div>p:last-child{color:#ece8ff}
 .back-top:hover{color:var(--v)}
+@keyframes rise{from{opacity:0;transform:translateY(22px)}}
+.hero-copy>*{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}.hero-copy>:nth-child(2){animation-delay:.1s}.hero-copy>:nth-child(3){animation-delay:.2s}.hero-copy>:nth-child(4){animation-delay:.3s}.hero-photo{animation:rise .9s .25s cubic-bezier(.2,.7,.2,1) both}
+.site-header{transition:box-shadow .3s}.site-header.scrolled{box-shadow:0 6px 24px #0c10301a}
+.main-nav a:not(.nav-cta){position:relative}.main-nav a:not(.nav-cta)::after{content:"";position:absolute;left:0;bottom:-4px;height:2px;width:100%;background:var(--v);transform:scaleX(0);transform-origin:left;transition:transform .3s}.main-nav a:not(.nav-cta):hover::after{transform:scaleX(1)}.main-nav a:hover{text-decoration:none}
+.button{transition:transform .25s,box-shadow .25s,background .25s,color .25s}.button:hover{transform:translateY(-3px);box-shadow:0 10px 24px #5b3df540}.button span,.text-link span,.nav-cta span{display:inline-block;transition:transform .25s}.button:hover span,.text-link:hover span,.nav-cta:hover span{transform:translate(3px,-3px)}
+.skill-card,.result-card,.blog-card,.metrics div{transition:transform .3s,box-shadow .3s}.skill-card:hover,.blog-card:hover,.result-card:hover{transform:translateY(-6px);box-shadow:0 16px 36px #5b3df522}.metrics div:hover{transform:scale(1.03)}
+.project-logo{transition:transform .4s}.project-card:hover .project-logo{transform:scale(1.07)}
+.js .reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}.js .reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.hero-copy>*,.hero-photo{animation:none}.js .reveal{opacity:1;transform:none}}
