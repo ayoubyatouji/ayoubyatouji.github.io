@@ -23,3 +23,8 @@ document.querySelectorAll("[data-img]").forEach(el=>{const i=new Image();i.onloa
   var io=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;var el=e.target;io.unobserve(el);el.classList.add("in");setTimeout(function(){el.classList.remove("reveal","in");el.style.transitionDelay=""},1200)})},{threshold:.12,rootMargin:"0px 0px -6% 0px"});
   els.forEach(function(el){var i=Array.prototype.indexOf.call(el.parentNode.children,el);el.style.transitionDelay=(i%4)*90+"ms";el.classList.add("reveal");io.observe(el)});
 })();
+(function(){var b=document.getElementById("quiz-go"),r=document.getElementById("quiz-result"),f=document.getElementById("quiz-form");if(!b||!f)return;
+b.addEventListener("click",function(){var n=0,a=0;for(var i=0;i<8;i++){var c=f.querySelector('input[name="q'+i+'"]:checked');if(c){a++;n+=Number(c.value)}}
+if(a<8){r.className="quiz-result show";r.innerHTML="<p>Répondez aux 8 questions pour voir votre score.</p>";return}
+var m=n>=7?"De bonnes bases. L’étape suivante est de mesurer et d’accélérer.":n>=4?"Vous avez des fondations, mais il reste des gains rapides à aller chercher.":"Il y a beaucoup à gagner : un audit permettrait de fixer les priorités.";
+r.className="quiz-result show";r.innerHTML="<b>"+n+" / 8</b><p>"+m+"</p><a class=\"button button-primary\" href=\"#contact\">Parlons de votre site <span>↗</span></a>"})})();
