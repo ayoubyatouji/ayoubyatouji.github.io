@@ -28,3 +28,12 @@ b.addEventListener("click",function(){var n=0,a=0;for(var i=0;i<8;i++){var c=f.q
 if(a<8){r.className="quiz-result show";r.innerHTML="<p>"+(en?"Answer all 8 questions to see your score.":"Répondez aux 8 questions pour voir votre score.")+"</p>";return}
 var m=en?(n>=7?"Good foundations. The next step is to measure and accelerate.":n>=4?"You have foundations, but there are quick wins left to capture.":"There is a lot to gain: an audit would help set priorities."):(n>=7?"De bonnes bases. L’étape suivante est de mesurer et d’accélérer.":n>=4?"Vous avez des fondations, mais il reste des gains rapides à aller chercher.":"Il y a beaucoup à gagner : un audit permettrait de fixer les priorités.");
 r.className="quiz-result show";r.innerHTML="<b>"+n+" / 8</b><p>"+m+"</p><a class=\"button button-primary\" href=\"#contact\">"+(en?"Let’s talk about your site":"Parlons de votre site")+" <span>↗</span></a>"})})();
+(function(){var en=document.documentElement.lang==="en",loc=en?"en-US":"fr-FR";
+function fmt(v,d){return Number(v).toLocaleString(loc,{minimumFractionDigits:d,maximumFractionDigits:d})}
+var cs=document.querySelectorAll(".count");
+function show(el,p){var d=+el.dataset.dec||0;el.textContent=(el.dataset.pre||"")+fmt(+el.dataset.to*p,d)+(el.dataset.suf||"")}
+if(cs.length){if(!("IntersectionObserver" in window)||window.matchMedia("(prefers-reduced-motion: reduce)").matches){cs.forEach(function(e){show(e,1)})}else{
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isIntersecting)return;io.unobserve(e.target);var el=e.target,t0=performance.now();(function step(t){var p=Math.min((t-t0)/1200,1);show(el,1-Math.pow(1-p,3));if(p<1)requestAnimationFrame(step)})(t0)})},{threshold:.4});cs.forEach(function(e){io.observe(e)})}}
+var h=document.getElementById("calc-h"),n=document.getElementById("calc-n"),m=document.getElementById("calc-m"),y=document.getElementById("calc-y");
+if(h&&n&&m&&y){var up=function(){var a=Math.max(0,Math.min(500,+h.value||0)),b=Math.max(1,Math.min(100,+n.value||1)),s=a*b*0.95;m.textContent=fmt(s,s<10?1:0);y.textContent=fmt(s*12,0)};h.addEventListener("input",up);n.addEventListener("input",up);up()}
+})();
