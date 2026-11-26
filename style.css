@@ -128,3 +128,8 @@ body{background:#07030d;color:var(--ink)}
 .contact-box{background:linear-gradient(135deg,#4B0082,#2a0049);border:1px solid rgba(212,175,55,.35)}.contact-box .section-label{color:var(--gold)}
 .contact-box .button-primary{background:var(--gold);color:#000}.contact-box .button-primary:hover{background:var(--silver);color:#000}
 @media(max-width:640px){.main-nav{background:#07030d}}
+/* correctif lisibilité : neutralise les fonds pastel des cartes */
+.skill-card:nth-child(n),.blog-card:nth-child(n),.metrics div:nth-child(n){background:#140a22;color:var(--ink)}
+.skill-card:nth-child(n) p,.blog-card:nth-child(n) p,.metrics div:nth-child(n) dt,.metrics div:nth-child(n) small{color:var(--mid)}
+.skill-card:nth-child(n) h3,.blog-card:nth-child(n) h3,.metrics div:nth-child(n) dd{color:#fff}
+.skill-card .text-link,.blog-card .text-link{color:#fff}.skill-card .text-link:hover,.blog-card .text-link:hover{color:var(--gold)}
