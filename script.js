@@ -37,3 +37,13 @@ var io=new IntersectionObserver(function(es){es.forEach(function(e){if(!e.isInte
 var h=document.getElementById("calc-h"),n=document.getElementById("calc-n"),m=document.getElementById("calc-m"),y=document.getElementById("calc-y");
 if(h&&n&&m&&y){var up=function(){var a=Math.max(0,Math.min(500,+h.value||0)),b=Math.max(1,Math.min(100,+n.value||1)),s=a*b*0.95;m.textContent=fmt(s,s<10?1:0);y.textContent=fmt(s*12,0)};h.addEventListener("input",up);n.addEventListener("input",up);up()}
 })();
+(function(){var b=document.getElementById("pick-go"),f=document.getElementById("pick-form"),r=document.getElementById("pick-result");if(!b||!f)return;var en=document.documentElement.lang==="en";
+var N={meta:"Meta Ads (Facebook and Instagram)",google:"Google Ads",li:"LinkedIn Ads"},NF={meta:"Meta Ads (Facebook et Instagram)",google:"Google Ads",li:"LinkedIn Ads"};
+var W={meta:["Ideal for awareness: you reach a wide audience with visuals and video.","Idéal pour se faire connaître : vous touchez un large public avec des visuels et des vidéos."],google:["You capture people already searching for your product or service, so they are close to a decision.","Vous captez des personnes qui cherchent déjà votre produit ou service, donc proches de la décision."],li:["You target decision makers by role and industry, with a higher cost per click.","Vous ciblez des décideurs par fonction et secteur, avec un coût par clic plus élevé."]};
+function val(i){var c=f.querySelector('input[name="pk'+i+'"]:checked');return c?c.value:null}
+b.addEventListener("click",function(){var o=val(0),c=val(1),g=val(2);if(!o||!c||!g){r.className="quiz-result show";r.innerHTML="<p>"+(en?"Answer the 3 questions to see the recommendation.":"Répondez aux 3 questions pour voir la recommandation.")+"</p>";return}
+var p,s=null,m=g==="m",bb=c==="b";
+if(o==="n"){p="meta";s=bb?(m?"li":null):(m?"google":null)}else if(o==="l"){if(bb){p=m?"li":"google";s=m?"google":null}else{p="google";s=m?"meta":null}}else{p="google";s=m?(bb?"li":"meta"):null}
+var nm=en?N:NF,i=en?0:1;
+var h="<b>"+nm[p]+"</b><p>"+(en?"Start with ":"Commencez par ")+nm[p]+". "+W[p][i]+" "+(s?(en?"With a comfortable budget, add ":"Avec un budget confortable, ajoutez ")+nm[s]+". ":(en?"Measure the cost per result before expanding.":"Mesurez d’abord le coût par résultat avant d’étendre."))+"</p><a class=\"button button-primary\" href=\"#contact\">"+(en?"Let’s talk about your project":"Parlons de votre projet")+" <span>↗</span></a>";
+r.className="quiz-result show";r.innerHTML=h})})();
