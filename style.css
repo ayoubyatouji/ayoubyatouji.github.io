@@ -69,3 +69,31 @@ a:focus-visible,button:focus-visible{outline-color:var(--v)}
 .quiz{max-width:760px;margin:0 auto;display:grid;gap:12px}.q{border:1.5px solid var(--line);border-radius:20px;padding:16px 20px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin:0}.q legend{float:left;width:100%;padding:0;font-weight:600}.q label{position:relative}.q input{position:absolute;opacity:0}.q label span{display:inline-block;padding:8px 22px;border-radius:99px;border:1.5px solid var(--ink);cursor:pointer;font-weight:600;transition:background .2s,color .2s}.q input:checked+span{background:var(--v);border-color:var(--v);color:#fff}.q input:focus-visible+span{outline:3px solid var(--v);outline-offset:3px}.quiz .button{justify-self:start;margin-top:8px}.quiz-result{display:none;background:var(--lav);border-radius:24px;padding:26px}.quiz-result.show{display:block}.quiz-result b{display:block;font-size:30px;letter-spacing:-.02em;color:var(--v)}.quiz-result p{margin:6px 0 16px}.quiz-section{background:#fff}
 .article{max-width:760px;padding:64px 0 40px}.article h1{font-size:clamp(34px,5vw,54px);letter-spacing:-.035em;line-height:1.08;margin:8px 0 22px}.article h2{font-size:26px;letter-spacing:-.02em;margin:34px 0 8px}.article p,.article li{font-size:18px;color:#333}.article .lead{font-size:21px;color:var(--ink)}.article ul,.article ol{padding-left:22px}.article-cta{margin-top:44px;padding:28px;border-radius:24px;background:var(--lav);display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}.article-cta p{margin:0;font-weight:700}
 .main-nav .lang{font-weight:700;border:1.5px solid var(--line);border-radius:99px;padding:4px 12px}
+/* === Charte noir / bleu électrique / rouge néon === */
+:root{--ink:#fff;--mid:#a8a8a8;--grey:#0d0d0d;--lav:#0a0a0a;--mist:#0d0d0d;--line:rgba(255,255,255,.16);--v:#007BFF;--vd:#0062cc;--lem:#FF073A}
+body{background:#000;color:#fff}
+.site-header{background:rgba(0,0,0,.86);border-bottom-color:var(--line)}.site-header.scrolled{box-shadow:0 6px 24px #007bff30}
+.brand-mark{background:var(--v);color:#000}.nav-cta{background:var(--v);color:#000!important}.nav-cta:hover{background:var(--lem)}.menu-toggle{color:#fff}
+.hero{background:radial-gradient(ellipse at 82% 18%,#007bff45,transparent 48%),radial-gradient(ellipse at 10% 75%,#ff073a28,transparent 42%),#000}
+.eyebrow{background:#0d0d0d;border:1.5px solid var(--lem)}.status-dot{background:var(--lem);box-shadow:0 0 10px var(--lem)}
+.gradient-text{color:var(--v);background:linear-gradient(transparent 88%,var(--lem) 88%)}
+.hero-photo::before{background:var(--lem)}.hero-photo figcaption{background:rgba(0,0,0,.82);color:#fff;border:1px solid var(--line)}.hero-photo b{color:var(--v)}
+.button-primary{background:var(--v);color:#000}.button-primary:hover{background:var(--lem);color:#000}.button:hover{box-shadow:0 10px 26px #007bff55}
+.button-ghost,.button-outline{border-color:var(--v);color:var(--v)}.button-ghost:hover,.button-outline:hover{background:var(--v);color:#000}
+.about-section,.pfe-section{background:#0a0a0a}.case-section{background:#0a0a0a}.quiz-section{background:#000}
+.skill-card,.blog-card,.metrics div{background:#0d0d0d;border:1px solid var(--line)}
+.skill-card:nth-child(odd),.blog-card:nth-child(odd){border-top:3px solid var(--v)}.skill-card:nth-child(even),.blog-card:nth-child(even){border-top:3px solid var(--lem)}
+.metrics div:nth-child(odd){border-top:3px solid var(--v)}.metrics div:nth-child(even){border-top:3px solid var(--lem)}
+.skill-card:hover,.blog-card:hover,.result-card:hover{box-shadow:0 16px 36px #007bff33}
+.skill-icon{background:var(--v);color:#000}.tags span,.project-tags span{background:#000;border:1px solid var(--line);color:#fff}
+.tools-line{background:#0d0d0d}.result-card,.result-card img{border-color:var(--line)}
+.projects-section{background:#050505;color:#fff}.projects-section .section-label{color:var(--v)}.projects-section .project-type{color:var(--lem)}.projects-section .section-heading>p,.projects-section .project-info p{color:#b5b5b5}.projects-section .text-link{border-color:var(--lem)}.projects-section .text-link:hover{color:var(--lem)}.projects-section .project-tags span{background:#0d0d0d}
+.stihl-art,.uas-art,.dates-art,.e2b-art{background:#fff}
+.timeline li::before{border-color:#000}.steps li{border-top-color:var(--lem)}.steps li::before{color:var(--v)}
+.gallery figcaption{background:rgba(0,0,0,.82);color:#fff}
+.q label span{border-color:#fff}.q input:checked+span{background:var(--v);border-color:var(--v);color:#000}.quiz-result{background:#0d0d0d;border:1px solid var(--line)}
+.contact-box{background:linear-gradient(135deg,#0062cc,#00306b)}.contact-box .section-label{color:#fff}.contact-box>div>p:last-child{color:#fff}.contact-box .button-primary{background:#fff;color:#000}.contact-box .button-primary:hover{background:var(--lem);color:#000}.contact-box .button-outline{border-color:#fff;color:#fff}.contact-box .button-outline:hover{background:#fff;color:#000}
+.fb{fill:#0d0d0d;stroke:var(--v)}.ft{fill:#fff}.fs{fill:#a8a8a8}.fc{fill:var(--v)}.fh{fill:#000}.fw{fill:#000}.fl{stroke:var(--lem);opacity:.7}
+.article p,.article li{color:#d0d0d0}.article-cta{background:#0d0d0d;border:1px solid var(--line)}
+.site-footer{border-top-color:var(--line)}
+@media(max-width:640px){.main-nav{background:#000}}
