@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0",
+  "paths": [
+    {
+      "id": "seo-foundations",
+      "level": "learningBeginner",
+      "resourceId": "agent-keyword-research",
+      "title": {"fr":"SEO : des bases à la pratique avancée","en":"SEO: beginner to advanced","ar":"تحسين محركات البحث: من الأساسيات إلى المستوى المتقدم"},
+      "topics": {
+        "fr":["Intention de recherche et objectifs de page","Contenu, structure et liens internes","Exploration, indexation et mesure"],
+        "en":["Search intent and page goals","Content, structure, and internal links","Crawling, indexing, and measurement"],
+        "ar":["نية البحث وأهداف الصفحة","المحتوى والبنية والروابط الداخلية","الزحف والفهرسة والقياس"]
+      }
+    },
+    {
+      "id": "technical-seo",
+      "level": "learningIntermediate",
+      "resourceId": "skill-technical-seo",
+      "title": {"fr":"SEO technique","en":"Technical SEO","ar":"تحسين محركات البحث التقني"},
+      "topics": {
+        "fr":["Réponses HTTP et exploration","Indexabilité, canonicals et robots","Performance et validation des changements"],
+        "en":["HTTP responses and crawling","Indexability, canonicals, and robots","Performance and change validation"],
+        "ar":["استجابات HTTP والزحف","قابلية الفهرسة وcanonical وملف robots","الأداء والتحقق من التغييرات"]
+      }
+    },
+    {
+      "id": "geo-search",
+      "level": "learningIntermediate",
+      "resourceId": "skill-geo-optimization",
+      "title": {"fr":"GEO et visibilité dans la recherche IA","en":"GEO and AI search","ar":"GEO والظهور في البحث المدعوم بالذكاء الاصطناعي"},
+      "topics": {
+        "fr":["Entités, preuves et sources","Réponses claires et attribution","Suivi prudent des résultats et limites"],
+        "en":["Entities, evidence, and sources","Clear answers and attribution","Careful result tracking and limitations"],
+        "ar":["الكيانات والأدلة والمصادر","إجابات واضحة وإسناد المعلومات","متابعة النتائج والقيود بحذر"]
+      }
+    },
+    {
+      "id": "meta-ads",
+      "level": "learningBeginner",
+      "resourceId": "skill-meta-ads-copy",
+      "title": {"fr":"Publicité Meta","en":"Meta Ads","ar":"إعلانات Meta"},
+      "topics": {
+        "fr":["Objectifs et événements de conversion","Audiences, créations et hypothèses de test","Mesure, consentement et politiques"],
+        "en":["Objectives and conversion events","Audiences, creative, and test hypotheses","Measurement, consent, and policies"],
+        "ar":["الأهداف وأحداث التحويل","الجماهير والإبداع وفرضيات الاختبار","القياس والموافقة والسياسات"]
+      }
+    },
+    {
+      "id": "google-ads",
+      "level": "learningBeginner",
+      "resourceId": "skill-google-ads-keywords",
+      "title": {"fr":"Google Ads","en":"Google Ads","ar":"إعلانات Google"},
+      "topics": {
+        "fr":["Mots-clés et intentions","Groupes d’annonces et pages de destination","Suivi des conversions et rapports"],
+        "en":["Keywords and intent","Ad groups and landing pages","Conversion tracking and reporting"],
+        "ar":["الكلمات المفتاحية والنية","المجموعات الإعلانية وصفحات الهبوط","تتبّع التحويلات وإعداد التقارير"]
+      }
+    },
+    {
+      "id": "linkedin-ads",
+      "level": "learningIntermediate",
+      "resourceId": "agent-ads-assistant",
+      "title": {"fr":"LinkedIn Ads pour le B2B","en":"LinkedIn Ads for B2B","ar":"إعلانات LinkedIn للأعمال بين الشركات"},
+      "topics": {
+        "fr":["Objectif commercial et audience professionnelle","Formulaires de génération de prospects","Qualité des prospects et optimisation"],
+        "en":["Business goals and professional audiences","Lead Gen Forms","Lead quality and optimization"],
+        "ar":["الأهداف التجارية والجماهير المهنية","نماذج جذب العملاء المحتملين","جودة العملاء المحتملين والتحسين"]
+      }
+    },
+    {
+      "id": "ai-agents",
+      "level": "learningIntermediate",
+      "resourceId": "agent-seo-audit",
+      "title": {"fr":"Agents IA","en":"AI agents","ar":"وكلاء الذكاء الاصطناعي"},
+      "topics": {
+        "fr":["Tâches, contexte et limites","Outils, autorisations et validation","Tests, supervision et journalisation"],
+        "en":["Tasks, context, and boundaries","Tools, permissions, and review","Testing, supervision, and logging"],
+        "ar":["المهام والسياق والحدود","الأدوات والصلاحيات والمراجعة","الاختبار والإشراف والتسجيل"]
+      }
+    },
+    {
+      "id": "agent-skills",
+      "level": "learningIntermediate",
+      "resourceId": "skill-technical-seo",
+      "title": {"fr":"Compétences réutilisables pour agents","en":"Reusable agent skills","ar":"مهارات قابلة لإعادة الاستخدام للوكلاء"},
+      "topics": {
+        "fr":["Structure d’un fichier SKILL.md","Instructions et ressources de référence","Compatibilité, tests et versionnage"],
+        "en":["SKILL.md structure","Instructions and reference resources","Compatibility, testing, and versioning"],
+        "ar":["بنية ملف SKILL.md","التعليمات والمواد المرجعية","التوافق والاختبار وإدارة الإصدارات"]
+      }
+    },
+    {
+      "id": "n8n-automation",
+      "level": "learningIntermediate",
+      "resourceId": "workflow-seo-audit-prep",
+      "title": {"fr":"Automatisation avec n8n","en":"n8n automation","ar":"الأتمتة باستخدام n8n"},
+      "topics": {
+        "fr":["Déclencheurs et étapes de workflow","Identifiants, transferts et effets secondaires","Tests avec données fictives et mise en service"],
+        "en":["Workflow triggers and nodes","Credentials, data movement, and side effects","Synthetic-data testing and deployment"],
+        "ar":["مشغّلات سير العمل وعُقده","بيانات الاعتماد ونقل البيانات والآثار الجانبية","الاختبار ببيانات وهمية والنشر"]
+      }
+    },
+    {
+      "id": "marketing-automation",
+      "level": "learningAdvanced",
+      "resourceId": "code-utm-builder",
+      "title": {"fr":"Automatisation marketing","en":"Marketing automation","ar":"أتمتة التسويق"},
+      "topics": {
+        "fr":["Cartographier un processus et ses données","Relier outils, webhooks et API","Gérer les erreurs, consentements et reprises"],
+        "en":["Map a process and its data","Connect tools, webhooks, and APIs","Handle failures, consent, and retries"],
+        "ar":["رسم العملية وبياناتها","ربط الأدوات وwebhooks وواجهات API","معالجة الأخطاء والموافقة وإعادة المحاولة"]
+      }
+    },
+    {
+      "id": "prompt-engineering",
+      "level": "learningBeginner",
+      "resourceId": "agent-content-writer",
+      "title": {"fr":"Ingénierie des prompts","en":"Prompt engineering","ar":"هندسة المطالبات"},
+      "topics": {
+        "fr":["Objectif, contexte et contraintes","Variables, exemples et format de sortie","Évaluer, corriger et documenter"],
+        "en":["Goal, context, and constraints","Variables, examples, and output format","Evaluate, refine, and document"],
+        "ar":["الهدف والسياق والقيود","المتغيرات والأمثلة وتنسيق المخرجات","التقييم والتحسين والتوثيق"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": "1.0",
+  "prompts": [
+    {
+      "id": "seo-audit-evidence",
+      "category": "SEO",
+      "title": "Evidence-led SEO audit",
+      "description": "Review supplied page and crawl evidence without claiming to access a live website.",
+      "useCase": "Turn authorized SEO observations into prioritized, verifiable actions.",
+      "compatibleModels": ["Text-based chat models; paste manually and verify platform limits."],
+      "variables": ["{{page_url}}", "{{page_type}}", "{{evidence}}", "{{business_goal}}"],
+      "prompt": "Act as a careful SEO reviewer. Review only the evidence I provide; do not claim to crawl {{page_url}} or access private systems. Page type: {{page_type}}. Business goal: {{business_goal}}. Evidence: {{evidence}}. Separate observed facts from hypotheses, identify missing evidence, prioritize issues by user/business impact without inventing traffic estimates, and give a verification step for every recommendation. Flag anything that requires a live technical check.",
+      "exampleInput": "page_url: https://example.com/category; page_type: category; business_goal: help visitors find products; evidence: supplied export shows canonical to /category and 200 status.",
+      "exampleOutput": "Observed: the supplied export reports a 200 response and a self-referencing canonical. Verify the live response before treating this as current. No crawl or indexation conclusion can be drawn from these fields alone.",
+      "language": "en",
+      "version": "1.0.0",
+      "translations": {
+        "fr": {
+          "title": "Audit SEO fondé sur les preuves",
+          "description": "Analyse des éléments fournis sans prétendre accéder au site en direct.",
+          "useCase": "Transformer des observations SEO autorisées en actions prioritaires et vérifiables.",
+          "compatibleModels": ["Modèles de chat textuels ; collez le prompt manuellement et vérifiez les limites de la plateforme."],
+          "prompt": "Agis comme un analyste SEO rigoureux. Analyse uniquement les éléments fournis ; ne prétends pas explorer {{page_url}} ni accéder à des systèmes privés. Type de page : {{page_type}}. Objectif métier : {{business_goal}}. Éléments disponibles : {{evidence}}. Sépare les faits observés des hypothèses, signale les informations manquantes, hiérarchise les problèmes selon leur impact utilisateur ou métier sans inventer de trafic, et propose une vérification pour chaque recommandation. Indique les contrôles techniques qui nécessitent un accès en direct.",
+          "exampleInput": "page_url : https://exemple.com/categorie ; page_type : catégorie ; business_goal : aider les visiteurs à trouver des produits ; evidence : l’export fourni indique une réponse 200 et une canonique vers /categorie.",
+          "exampleOutput": "Observation : l’export fourni indique une réponse 200 et une canonique auto-référente. Vérifiez la réponse en direct avant de considérer ces données comme actuelles. Ces champs seuls ne permettent pas de conclure sur l’indexation."
+        },
+        "ar": {
+          "title": "تدقيق SEO قائم على الأدلة",
+          "description": "مراجعة الأدلة المقدّمة دون الادعاء بالوصول المباشر إلى الموقع.",
+          "useCase": "تحويل ملاحظات SEO المصرّح بها إلى إجراءات ذات أولوية وقابلة للتحقق.",
+          "compatibleModels": ["نماذج المحادثة النصية؛ الصق المطالبة يدوياً وتحقق من حدود المنصة."],
+          "prompt": "تصرّف كمراجع SEO دقيق. حلّل الأدلة التي أقدّمها فقط؛ لا تدّعِ فحص {{page_url}} مباشرة أو الوصول إلى أنظمة خاصة. نوع الصفحة: {{page_type}}. هدف النشاط التجاري: {{business_goal}}. الأدلة: {{evidence}}. افصل الحقائق المرصودة عن الفرضيات، وحدّد المعلومات الناقصة، ورتّب المشكلات حسب أثرها على المستخدم أو النشاط دون اختلاق تقديرات للزيارات، وقدّم خطوة تحقق لكل توصية. وضّح ما يتطلب فحصاً تقنياً مباشراً.",
+          "exampleInput": "page_url: https://example.com/category; page_type: category; business_goal: مساعدة الزوار في العثور على المنتجات؛ evidence: يذكر الملف المقدّم استجابة 200 ورابط canonical إلى /category.",
+          "exampleOutput": "الملاحظة: يذكر الملف المقدّم استجابة 200 ورابط canonical ذاتياً. تحقّق من الاستجابة المباشرة قبل اعتبار البيانات حديثة. لا تكفي هذه الحقول وحدها للاستنتاج بشأن الفهرسة."
+        }
+      }
+    },
+    {
+      "id": "meta-ads-test-plan",
+      "category": "Meta Ads",
+      "title": "Meta Ads test plan",
+      "description": "Create a reviewable campaign test from an approved objective, audience, and offer.",
+      "useCase": "Prepare a small creative experiment and measurement checklist.",
+      "compatibleModels": ["Text-based chat models; platform policy must be checked separately."],
+      "variables": ["{{objective}}", "{{audience}}", "{{offer}}", "{{budget}}", "{{conversion_event}}"],
+      "prompt": "Create a cautious Meta Ads test plan using only this approved information. Objective: {{objective}}. Audience rationale: {{audience}}. Approved offer: {{offer}}. Test budget: {{budget}}. Conversion event: {{conversion_event}}. State assumptions, propose one testable creative hypothesis, list measurement and consent checks, and flag policy questions for review in Meta's current official guidance. Do not promise results or target sensitive personal attributes.",
+      "exampleInput": "Objective: qualified enquiries; audience: business owners in an approved region; offer: consultation; budget: 300 TND; conversion event: submitted enquiry form.",
+      "exampleOutput": "Hypothesis: a problem-led message may produce more qualified enquiries than a feature-led message. Confirm conversion tracking and consent, then compare the same audience and landing page under a pre-agreed test window. No outcome is guaranteed.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "google-ads-keyword-groups",
+      "category": "Google Ads",
+      "title": "Google Ads keyword grouping",
+      "description": "Group supplied terms by intent and landing-page fit without fabricating search metrics.",
+      "useCase": "Prepare a human-reviewed campaign structure from an authorized keyword list.",
+      "compatibleModels": ["Text-based chat models; provide verified keyword data separately."],
+      "variables": ["{{keywords}}", "{{products}}", "{{landing_pages}}", "{{region}}"],
+      "prompt": "Group the supplied Google Ads terms by likely intent and relevant landing page. Terms: {{keywords}}. Products/services: {{products}}. Available landing pages: {{landing_pages}}. Region and language: {{region}}. Preserve the original term, explain each grouping, flag ambiguous or irrelevant terms, and list metrics that still need to be checked in an authorized source. Do not invent volume, CPC, competition, or expected conversions.",
+      "exampleInput": "Terms: emergency plumber, plumber prices, bathroom tap repair. Pages: emergency service, pricing guide, repairs.",
+      "exampleOutput": "Separate urgent service intent from price research. Map each cluster to the closest supplied page and verify actual keyword metrics in the ad account or Keyword Planner.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "linkedin-b2b-brief",
+      "category": "LinkedIn Ads",
+      "title": "LinkedIn B2B campaign brief",
+      "description": "Structure a B2B campaign hypothesis using approved targeting and lead qualification details.",
+      "useCase": "Draft a campaign brief and lead-quality review plan.",
+      "compatibleModels": ["Text-based chat models; verify current LinkedIn targeting and policy."],
+      "variables": ["{{business_goal}}", "{{buyer_roles}}", "{{region}}", "{{offer}}", "{{lead_criteria}}"],
+      "prompt": "Draft a LinkedIn Ads planning brief using the approved details below. Goal: {{business_goal}}. Buyer roles: {{buyer_roles}}. Region: {{region}}. Offer: {{offer}}. Lead qualification criteria: {{lead_criteria}}. Separate assumptions from confirmed facts, suggest a measurable test, and include privacy, consent, and lead-quality checks. Do not infer sensitive traits or promise performance.",
+      "exampleInput": "Goal: book qualified software demos; roles: operations managers; region: Tunisia; offer: product demo; qualification: company size and business email.",
+      "exampleOutput": "Define a narrow role and region hypothesis, confirm the offer matches the landing page, and agree how sales will mark qualified leads before launch. Verify current audience options in LinkedIn Campaign Manager.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "automation-workflow-review",
+      "category": "AI automation",
+      "title": "Automation workflow safety review",
+      "description": "Inspect a supplied workflow export for triggers, data movement, credentials, and side effects.",
+      "useCase": "Create a manual review checklist before importing or enabling a workflow.",
+      "compatibleModels": ["Text-based chat models; never include real secrets or customer data."],
+      "variables": ["{{platform}}", "{{workflow_json}}", "{{intended_result}}"],
+      "prompt": "Review the supplied {{platform}} workflow description for safety; intended result: {{intended_result}}. Workflow: {{workflow_json}}. Do not execute it. List every trigger, external request, credential reference, file operation, write/update action, and data destination you can identify. Mark unknown behavior explicitly. Recommend an isolated test with fictional data and a human approval point before activation.",
+      "exampleInput": "Platform: n8n; intended result: prepare a weekly report; workflow_json: a manual trigger followed by a Set node with fictional fields.",
+      "exampleOutput": "Observed: one manual trigger and one Set node; no external request or credential is visible in the supplied export. Confirm there are no hidden sub-workflows before importing.",
+      "language": "en",
+      "version": "1.0.0",
+      "translations": {
+        "fr": {
+          "title": "Vérification de sécurité d’un workflow",
+          "description": "Examine les déclencheurs, les transferts de données, les accès et les effets secondaires d’un export fourni.",
+          "useCase": "Créer une liste de contrôle avant d’importer ou d’activer un workflow.",
+          "prompt": "Examine la sécurité du workflow {{platform}} fourni pour l’objectif suivant : {{intended_result}}. Workflow : {{workflow_json}}. Ne l’exécute pas. Énumère les déclencheurs, requêtes externes, références à des identifiants, opérations sur les fichiers, écritures et destinations de données que tu peux repérer. Signale clairement les éléments inconnus. Recommande un test isolé avec des données fictives et une validation humaine avant activation.",
+          "exampleInput": "Plateforme : n8n ; objectif : préparer un rapport hebdomadaire ; workflow_json : déclencheur manuel suivi d’un nœud Set avec des champs fictifs.",
+          "exampleOutput": "Observé : un déclencheur manuel et un nœud Set ; aucune requête externe ni aucun identifiant n’apparaît dans l’export fourni. Vérifiez l’absence de sous-workflows avant l’import."
+        }
+      }
+    },
+    {
+      "id": "business-project-brief",
+      "category": "Business",
+      "title": "Project discovery brief",
+      "description": "Turn an initial business request into a clear, reviewable project brief.",
+      "useCase": "Clarify outcome, audience, constraints, evidence, and success criteria.",
+      "compatibleModels": ["Text-based chat models; use authorized, non-sensitive information."],
+      "variables": ["{{request}}", "{{audience}}", "{{constraints}}"],
+      "prompt": "Convert this request into a concise discovery brief. Request: {{request}}. Audience: {{audience}}. Constraints: {{constraints}}. Separate known facts, assumptions, and unanswered questions. Define a measurable outcome only when the supplied evidence supports it. End with the smallest useful next step and who must approve it.",
+      "exampleInput": "Request: improve enquiries from our service pages; audience: local business customers; constraints: static website, limited budget.",
+      "exampleOutput": "Known: static website and limited budget. Questions: which pages and enquiry sources are in scope? Next step: review current analytics access and select one page with the business owner.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "javascript-code-review",
+      "category": "Coding",
+      "title": "Small JavaScript code review",
+      "description": "Review a short code sample for correctness, clarity, and edge cases without running it.",
+      "useCase": "Get a structured review checklist for a code change.",
+      "compatibleModels": ["Text-based coding/chat models; code is analyzed as text only."],
+      "variables": ["{{goal}}", "{{code}}", "{{runtime}}"],
+      "prompt": "Review the following JavaScript as text; do not execute it. Goal: {{goal}}. Runtime: {{runtime}}. Code: {{code}}. Identify only concrete issues, explain the triggering input, suggest the smallest safe change, and list a focused test. If behavior depends on an unstated environment, ask rather than guessing.",
+      "exampleInput": "Goal: parse an optional query parameter; Runtime: modern browser; Code: const page = Number(params.get('page'));",
+      "exampleOutput": "Check the missing-parameter case: Number(null) becomes 0. Decide the intended default and test absent, valid, and malformed values.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "content-brief-writer",
+      "category": "Content marketing",
+      "title": "Source-aware content brief",
+      "description": "Build an outline from an approved audience need, evidence, and source list.",
+      "useCase": "Prepare a draft outline that distinguishes confirmed claims from research gaps.",
+      "compatibleModels": ["Text-based chat models; confirm quotations and sources manually."],
+      "variables": ["{{audience_need}}", "{{topic}}", "{{sources}}", "{{brand_facts}}"],
+      "prompt": "Create a content brief about {{topic}} for this audience need: {{audience_need}}. Approved sources: {{sources}}. Verified brand facts: {{brand_facts}}. Propose a useful outline, explain the purpose of each section, attach claims to supplied sources, and list missing evidence. Do not invent citations, product capabilities, or first-hand experience.",
+      "exampleInput": "Topic: choosing a garden irrigation timer; sources: official product manuals; brand facts: supplied product specifications.",
+      "exampleOutput": "Outline sections: choose a timer type, check compatibility, installation considerations, maintenance. Product-specific claims remain pending until matched to a manual.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "data-analysis-check",
+      "category": "Data analysis",
+      "title": "Data quality and analysis plan",
+      "description": "Plan a cautious analysis from a supplied dataset description and question.",
+      "useCase": "Identify data quality checks before interpreting a report.",
+      "compatibleModels": ["Text-based chat models; do not upload private or identifiable data."],
+      "variables": ["{{question}}", "{{fields}}", "{{time_period}}", "{{known_limits}}"],
+      "prompt": "Plan an analysis for this question: {{question}}. Available fields: {{fields}}. Time period: {{time_period}}. Known limitations: {{known_limits}}. Suggest data quality checks, a transparent calculation, and the smallest useful chart or table. Distinguish correlation from causation and list conclusions the supplied fields cannot support.",
+      "exampleInput": "Question: which landing pages received the most sessions? Fields: landing page and sessions; period: one month; limit: consented analytics only.",
+      "exampleOutput": "Check missing page labels and date coverage, group by landing page, sort by sessions, and avoid interpreting session volume as conversion quality.",
+      "language": "en",
+      "version": "1.0.0"
+    },
+    {
+      "id": "weekly-productivity-plan",
+      "category": "Productivity",
+      "title": "Weekly priority planner",
+      "description": "Turn an authorized task list into a realistic weekly plan with explicit unknowns.",
+      "useCase": "Prioritize work without inventing deadlines or effort estimates.",
+      "compatibleModels": ["Text-based chat models; omit confidential task details."],
+      "variables": ["{{tasks}}", "{{available_hours}}", "{{deadlines}}"],
+      "prompt": "Help organize this week using only the supplied information. Tasks: {{tasks}}. Available hours: {{available_hours}}. Confirmed deadlines: {{deadlines}}. Group urgent dependencies, label missing estimates, leave reasonable buffer, and ask about any conflict. Do not invent a deadline or claim the plan is guaranteed.",
+      "exampleInput": "Tasks: review analytics, draft one article, prepare meeting notes; available: 8 hours; deadlines: meeting notes Friday.",
+      "exampleOutput": "Reserve time for Friday meeting notes, schedule analytics review and article drafting in separate blocks, and confirm the article deadline before prioritizing it.",
+      "language": "en",
+      "version": "1.0.0"
+    }
+  ]
+}

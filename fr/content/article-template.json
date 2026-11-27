@@ -1,0 +1,32 @@
+{
+  "id": "article-unique-id",
+  "slug": "descriptive-article-url",
+  "title": "Replace with a specific, accurate title",
+  "metaDescription": "Write an accurate summary of the article, within a concise length.",
+  "category": "SEO & GEO",
+  "tags": ["topic", "specific subject"],
+  "publishedAt": "YYYY-MM-DD",
+  "updatedAt": "YYYY-MM-DD",
+  "lastVerified": "YYYY-MM-DD",
+  "author": "Ayoub Yatouji",
+  "featuredImage": "social-card.png",
+  "featuredImageAlt": "Describe what the actual image depicts.",
+  "summary": "A concise editorial summary that does not make unsupported promises.",
+  "disclaimer": "Optional: explain what may change and where readers should verify current information.",
+  "blocks": [
+    {"type": "paragraph", "text": "Opening: explain the reader's problem and what the guide covers."},
+    {"type": "heading", "level": 2, "text": "A descriptive section heading"},
+    {"type": "paragraph", "text": "Explain the point using original wording and verified evidence."},
+    {"type": "list", "items": ["A practical step", "A verification question"]},
+    {"type": "callout", "title": "Important limitation", "text": "State the relevant limitation clearly."}
+  ],
+  "sources": [
+    {
+      "title": "Replace with a real source title",
+      "publisher": "Publisher",
+      "url": "https://example.invalid/replace-with-a-verified-source"
+    }
+  ],
+  "relatedArticles": ["article-audit-seo"],
+  "relatedResources": ["agent-seo-audit"]
+}
