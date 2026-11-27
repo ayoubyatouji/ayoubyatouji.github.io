@@ -1,0 +1,29 @@
+{
+  "id": "unique-resource-id",
+  "slug": "descriptive-resource-url",
+  "title": "Resource title",
+  "description": "Accurate description of what this resource does and does not do.",
+  "category": "agents",
+  "resourceType": "AI agent prompt",
+  "version": "1.0.0",
+  "publishedAt": "YYYY-MM-DD",
+  "updatedAt": "YYYY-MM-DD",
+  "author": "Ayoub Yatouji",
+  "license": "CC BY 4.0",
+  "price": "Free",
+  "difficultyLevel": "Beginner",
+  "dependencies": ["List actual runtime or package requirements, or use an empty array."],
+  "compatiblePlatforms": ["Name only formats and platforms that were actually reviewed."],
+  "fileFormat": ["Markdown"],
+  "files": [
+    {"path": "marketplace/agents/replace-with-real-file.md", "name": "replace-with-real-file.md"}
+  ],
+  "installationGuide": ["Explain the installation and test steps."],
+  "examples": ["Use a fictional, non-sensitive example."],
+  "tags": ["topic", "format"],
+  "useCases": ["seo"],
+  "changelog": ["1.0.0 — Initial release."],
+  "safetyNotes": "Describe network, credential, filesystem, privacy, and execution risks that apply.",
+  "featured": false,
+  "relatedResources": ["agent-seo-audit"]
+}
