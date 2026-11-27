@@ -1,7 +1,7 @@
 {
-  "name": "Ayoub Yatouji — Portfolio",
-  "short_name": "Ayoub Yatouji",
-  "description": "Portfolio SEO, publicité et automatisation IA.",
+  "name": "YATOUJI AI HUB",
+  "short_name": "AI HUB",
+  "description": "AI resources, practical guides, and Ayoub Yatouji's portfolio.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

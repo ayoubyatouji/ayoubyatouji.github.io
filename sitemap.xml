@@ -1,15 +1,1707 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://ayoubyatouji.github.io/</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/article-audit-seo.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/article-pages-piliers.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/article-seo-geo.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/en.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/confidentialite.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/outils.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/tools.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/ressources.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/resources.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/links.html</loc><lastmod>2026-11-27</lastmod></url>
-<url><loc>https://ayoubyatouji.github.io/carte.html</loc><lastmod>2026-11-27</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/account.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/account.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/account.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/account.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/account.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/account.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/account.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/account.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/account.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/account.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/account.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/account.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/account.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/account.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/account.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/agents.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/agents.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/agents.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/agents.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/agents.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-comparisons.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-comparisons.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-comparisons.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-comparisons.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-comparisons.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-new-releases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-new-releases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-new-releases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-new-releases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-new-releases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-news.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-news.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-news.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-news.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-news.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-reviews.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-reviews.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-reviews.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-reviews.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-reviews.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ai-use-cases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ai-use-cases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ai-use-cases.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ai-use-cases.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ai-use-cases.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/article-audit-seo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/article-audit-seo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/article-audit-seo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-audit-seo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-audit-seo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/article-pages-piliers.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/article-pages-piliers.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/article-pages-piliers.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-pages-piliers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-pages-piliers.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/article-seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/article-seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/article-seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/article-seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/article-seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/evaluate-ai-tools-with-a-repeatable-test.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/evaluate-ai-tools-with-a-repeatable-test.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/evaluate-ai-tools-with-a-repeatable-test.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/google-ads-keyword-research-account-structure.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/google-ads-keyword-research-account-structure.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/google-ads-keyword-research-account-structure.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/google-ads-keyword-research-account-structure.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/linkedin-ads-audience-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/linkedin-ads-audience-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/linkedin-ads-audience-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/linkedin-ads-audience-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/meta-ads-objectives-campaign-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/meta-ads-objectives-campaign-planning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/meta-ads-objectives-campaign-planning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/meta-ads-objectives-campaign-planning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/review-n8n-workflows-before-running.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/review-n8n-workflows-before-running.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/review-n8n-workflows-before-running.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/review-n8n-workflows-before-running.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/articles/technical-seo-audit-evidence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/articles/technical-seo-audit-evidence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/articles/technical-seo-audit-evidence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/articles/technical-seo-audit-evidence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/carte.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/carte.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/carte.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/carte.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/carte.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/code-library.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/code-library.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/code-library.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/code-library.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/code-library.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/confidentialite.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/confidentialite.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/confidentialite.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/confidentialite.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/confidentialite.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/contribute.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/contribute.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/contribute.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/contribute.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/contribute.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/en.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/en.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/en.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/en.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/en.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/en.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/artificial-intelligence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/artificial-intelligence.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/artificial-intelligence.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/artificial-intelligence.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/automation-productivity.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/automation-productivity.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/automation-productivity.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/automation-productivity.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/google-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/google-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/google-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/google-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/google-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/linkedin-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/linkedin-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/linkedin-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/linkedin-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/meta-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/meta-ads.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/meta-ads.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/meta-ads.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/knowledge/seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/knowledge/seo-geo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/knowledge/seo-geo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/knowledge/seo-geo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/learning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/learning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/learning.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/learning.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/learning.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/links.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/links.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/links.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/links.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/links.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/links.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/links.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/links.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/links.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/links.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/links.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/links.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/links.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/links.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/links.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/marketing-toolbox.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/marketing-toolbox.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/marketing-toolbox.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/marketing-toolbox.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/marketing-toolbox.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/models-arena.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/models-arena.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/models-arena.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/models-arena.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/models-arena.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/open-source-ai.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/open-source-ai.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/open-source-ai.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/open-source-ai.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/open-source-ai.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/outils.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/outils.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/outils.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/outils.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/outils.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/playground.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/playground.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/playground.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/playground.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/playground.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/portfolio.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/portfolio.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/portfolio.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/portfolio.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/project-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/project-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/project-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/project-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/project-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/prompts.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/prompts.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/prompts.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/prompts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/prompts.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/ads-campaign-assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/ads-campaign-assistant.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ads-campaign-assistant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ads-campaign-assistant.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/article-jsonld-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/article-jsonld-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/article-jsonld-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/article-jsonld-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/competitor-analysis-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/competitor-analysis-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-analysis-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-analysis-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/competitor-research-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/competitor-research-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/competitor-research-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/competitor-research-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/content-writer-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/content-writer-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/content-writer-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/content-writer-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/ecommerce-seo-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/ecommerce-seo-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/ecommerce-seo-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/ecommerce-seo-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/geo-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/geo-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/geo-visibility-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/geo-visibility-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/geo-visibility-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/geo-visibility-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/google-ads-keyword-grouping-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/google-ads-keyword-grouping-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/google-ads-keyword-grouping-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/google-ads-keyword-grouping-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/internal-linking-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/internal-linking-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/internal-linking-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/internal-linking-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/javascript-explicit-fetch-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/javascript-explicit-fetch-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-explicit-fetch-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-explicit-fetch-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/javascript-utm-link-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/javascript-utm-link-builder.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/javascript-utm-link-builder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/javascript-utm-link-builder.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/keyword-research-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/keyword-research-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/keyword-research-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/keyword-research-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/lead-generation-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/lead-generation-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/lead-generation-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/lead-generation-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/meta-ads-copywriting-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/meta-ads-copywriting-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/meta-ads-copywriting-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/meta-ads-copywriting-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/n8n-campaign-brief-demo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/n8n-campaign-brief-demo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-campaign-brief-demo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-campaign-brief-demo.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/n8n-gsc-report-input-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/n8n-gsc-report-input-template.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-gsc-report-input-template.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-gsc-report-input-template.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/n8n-seo-audit-preparation.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/n8n-seo-audit-preparation.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/n8n-seo-audit-preparation.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/n8n-seo-audit-preparation.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/python-csv-metrics-summary.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/python-csv-metrics-summary.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/python-csv-metrics-summary.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/python-csv-metrics-summary.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/read-only-marketing-report-sql.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/read-only-marketing-report-sql.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/read-only-marketing-report-sql.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/read-only-marketing-report-sql.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/schema-markup-review-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/schema-markup-review-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/schema-markup-review-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/schema-markup-review-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/seo-audit-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/seo-audit-agent.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-audit-agent.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-audit-agent.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/seo-content-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/seo-content-optimization-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/seo-content-optimization-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/seo-content-optimization-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/resources/technical-seo-audit-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/resources/technical-seo-audit-skill.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/resources/technical-seo-audit-skill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/resources/technical-seo-audit-skill.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/ressources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/ressources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/ressources.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/ressources.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/ressources.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/search.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/search.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/search.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/search.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/search.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/search.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/search.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/search.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/search.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/search.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/search.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/search.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/search.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/search.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/search.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/skills.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/skills.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/skills.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/skills.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/skills.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/tools.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/tools.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/tools.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/fr/workflows.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/en/workflows.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+  </url>
+  <url>
+    <loc>https://ayoubyatouji.github.io/ar/workflows.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/workflows.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/workflows.html"/>
+  </url>
 </urlset>

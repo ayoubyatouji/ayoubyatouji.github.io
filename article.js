@@ -3,9 +3,10 @@
   if (!article) return;
 
   const language = document.documentElement.lang === "en" ? "en" : "fr";
-  const headings = [...article.querySelectorAll("h2")];
+  const content = article.querySelector(".article-body") || article;
+  const headings = [...content.querySelectorAll("h2")];
   const utility = document.createElement("div");
-  utility.className = "article-utility";
+  utility.className = "article-utility hub-article-utility";
   utility.innerHTML = language === "en"
     ? '<span class="read-time"></span><nav class="article-share" aria-label="Share this article"><a data-share="linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a><a data-share="whatsapp" target="_blank" rel="noopener noreferrer">WhatsApp</a></nav>'
     : '<span class="read-time"></span><nav class="article-share" aria-label="Partager cet article"><a data-share="linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a><a data-share="whatsapp" target="_blank" rel="noopener noreferrer">WhatsApp</a></nav>';
@@ -13,7 +14,7 @@
   const title = article.querySelector("h1");
   if (title) title.insertAdjacentElement("afterend", utility);
 
-  const words = article.textContent.trim().split(/\s+/).length;
+  const words = content.textContent.trim().split(/\s+/).length;
   const minutes = Math.max(1, Math.ceil(words / 220));
   utility.querySelector(".read-time").textContent = language === "en"
     ? `${minutes} min read`
