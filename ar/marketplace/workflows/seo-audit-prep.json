@@ -1,0 +1,38 @@
+{
+  "name": "SEO Audit Preparation Starter (Demo)",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "e36d1502-dba1-42b0-9587-81f290f6f7a1",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {"id": "4daa498d-b774-438e-a14f-83bd37a0db83", "name": "siteUrl", "value": "https://example.invalid", "type": "string"},
+            {"id": "0b99a911-d66e-47c6-893d-2137fbf752c6", "name": "checks", "value": "Confirm canonical, robots directive, response status, page title, and internal links using authorized evidence.", "type": "string"},
+            {"id": "11e59202-8908-415e-b144-ae79bb1d3a66", "name": "demoOnly", "value": true, "type": "boolean"}
+          ]
+        },
+        "options": {}
+      },
+      "id": "7ca219d5-1321-4b19-a665-f4f7bd35237c",
+      "name": "Prepare Review Checklist",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [500, 300]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{"node": "Prepare Review Checklist", "type": "main", "index": 0}]]
+    }
+  },
+  "active": false,
+  "settings": {"executionOrder": "v1"},
+  "meta": {"templateCredsSetupCompleted": false}
+}
