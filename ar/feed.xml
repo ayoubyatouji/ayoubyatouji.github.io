@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>YATOUJI AI HUB Knowledge Hub</title>
+  <link>https://ayoubyatouji.github.io/knowledge.html</link>
+  <description>Practical guides on SEO, advertising, AI, and automation.</description>
+  <language>en</language>
+  <item>
+    <title>A technical SEO audit starts with crawlability, indexability, and intent</title>
+    <link>https://ayoubyatouji.github.io/articles/technical-seo-audit-evidence.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/technical-seo-audit-evidence.html</guid>
+    <description>A practical way to review technical SEO evidence, prioritize blockers, and turn findings into verifiable actions.</description>
+    <category>SEO &amp; GEO</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Meta Ads objectives: align campaign setup with business outcomes</title>
+    <link>https://ayoubyatouji.github.io/articles/meta-ads-objectives-campaign-planning.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/meta-ads-objectives-campaign-planning.html</guid>
+    <description>A planning checklist for choosing a Meta Ads campaign objective, defining a useful conversion, and validating the measurement plan.</description>
+    <category>Meta Ads</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Google Ads keyword research: turn intent into an account structure</title>
+    <link>https://ayoubyatouji.github.io/articles/google-ads-keyword-research-account-structure.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/google-ads-keyword-research-account-structure.html</guid>
+    <description>Use verified keyword data and landing-page intent to build a reviewable Google Ads structure without guessing demand or cost.</description>
+    <category>Google Ads</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>LinkedIn Ads targeting: focus the audience before scaling</title>
+    <link>https://ayoubyatouji.github.io/articles/linkedin-ads-audience-planning.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/linkedin-ads-audience-planning.html</guid>
+    <description>A B2B campaign planning checklist for translating a business audience into a focused LinkedIn Ads test and a measurable lead path.</description>
+    <category>LinkedIn Ads</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Evaluate AI tools with a repeatable test, not a first impression</title>
+    <link>https://ayoubyatouji.github.io/articles/evaluate-ai-tools-with-a-repeatable-test.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/evaluate-ai-tools-with-a-repeatable-test.html</guid>
+    <description>A practical evaluation framework for comparing AI tools using a defined task, representative examples, source checks, and clear limitations.</description>
+    <category>Artificial Intelligence</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Review an n8n workflow before you run it</title>
+    <link>https://ayoubyatouji.github.io/articles/review-n8n-workflows-before-running.html</link>
+    <guid>https://ayoubyatouji.github.io/articles/review-n8n-workflows-before-running.html</guid>
+    <description>A safety-first checklist for inspecting workflow triggers, network requests, credentials, data handling, and side effects before activation.</description>
+    <category>Automation &amp; Productivity</category>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pourquoi commencer une stratégie SEO par un audit ?</title>
+    <link>https://ayoubyatouji.github.io/article-audit-seo.html</link>
+    <guid>https://ayoubyatouji.github.io/article-audit-seo.html</guid>
+    <description>Un audit SEO évite d’optimiser à l’aveugle : ce qu’il révèle, comment je le mène et pourquoi il doit déboucher sur un plan d’action.</description>
+    <category>SEO &amp; GEO</category>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pages piliers et maillage interne : organiser son contenu</title>
+    <link>https://ayoubyatouji.github.io/article-pages-piliers.html</link>
+    <guid>https://ayoubyatouji.github.io/article-pages-piliers.html</guid>
+    <description>Comment structurer un site en pages piliers et pages satellites, relier les contenus et éviter les erreurs de maillage interne.</description>
+    <category>SEO &amp; GEO</category>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>SEO et GEO : comment évolue la visibilité en ligne ?</title>
+    <link>https://ayoubyatouji.github.io/article-seo-geo.html</link>
+    <guid>https://ayoubyatouji.github.io/article-seo-geo.html</guid>
+    <description>Le GEO (Generative Engine Optimization) prolonge le SEO : ce qui reste, ce qui change, et comment préparer ses contenus aux moteurs génératifs.</description>
+    <category>SEO &amp; GEO</category>
+    <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+  </item>
+</channel></rss>

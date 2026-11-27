@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Outils gratuits SEO &amp;amp; marketing | Ayoub Yatouji — المحتوى باللغة الفرنسية</title>
+  <meta name="description" content="Outils gratuits pour tester une page, prévisualiser un résultat Google, calculer un ROAS, créer des liens UTM et préparer une campagne. المحتوى باللغة الفرنسية.">
+  <link rel="canonical" href="https://ayoubyatouji.github.io/ar/outils.html">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css?v=11">
+                                                                                          <meta property="og:locale" content="ar_AR">
+  <meta name="twitter:title" content="Outils gratuits SEO &amp;amp; marketing | Ayoub Yatouji — المحتوى باللغة الفرنسية">
+  <meta name="twitter:description" content="Outils gratuits pour tester une page, prévisualiser un résultat Google, calculer un ROAS, créer des liens UTM et préparer une campagne. المحتوى باللغة الفرنسية.">
+  <link rel="alternate" hreflang="fr" href="https://ayoubyatouji.github.io/fr/outils.html">
+  <link rel="alternate" hreflang="en" href="https://ayoubyatouji.github.io/en/outils.html">
+  <link rel="alternate" hreflang="ar" href="https://ayoubyatouji.github.io/ar/outils.html">
+  <link rel="alternate" hreflang="x-default" href="https://ayoubyatouji.github.io/fr/outils.html">
+</head>
+<body data-theme="dark" data-content-language="fr">
+  <a class="skip-link" href="#content">Aller au contenu</a>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html"><span class="brand-mark">AY</span><span>Ayoub Yatouji</span></a>
+      <nav class="main-nav page-nav" aria-label="Navigation principale">
+        <a href="index.html">Accueil</a><a href="ressources.html">Ressources</a><a class="lang" href="tools.html" lang="en" hreflang="en">EN</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activer le thème clair" aria-pressed="true">☀</button>
+        <button class="install-app" type="button" data-install-app hidden>Installer</button>
+        <a class="nav-cta" href="index.html#contact">Me contacter <span>↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main id="content" class="container tool-page">
+    <header class="tool-intro">
+      <p class="section-label">Boîte à outils gratuite</p>
+      <h1>Mesurer, décider, <span class="gradient-text">avancer.</span></h1>
+      <p>Des outils simples pour obtenir un premier repère. Les résultats sont des estimations, pas des garanties de performance.</p>
+    </header>
+
+    <section class="tool-card" id="pagespeed">
+      <p class="tool-kicker">01 · Performance</p>
+      <h2>Tester la vitesse d’un site</h2>
+      <p>Le test envoie l’URL saisie à Google PageSpeed Insights après votre consentement. Aucune clé API n’est enregistrée ici.</p>
+      <form class="tool-form" id="speed-form">
+        <label for="speed-url">URL publique du site</label>
+        <input id="speed-url" type="url" placeholder="https://exemple.com" required>
+        <label class="tool-consent"><input id="speed-consent" type="checkbox"> J’accepte d’envoyer cette URL à Google pour effectuer le test.</label>
+        <button class="button button-primary" type="submit">Tester le site</button>
+      </form>
+      <p class="tool-status" id="speed-status" aria-live="polite" hidden></p>
+      <div class="tool-result" id="speed-output" hidden>
+        <strong id="speed-score" class="speed-score"></strong>
+        <span>LCP : <b id="speed-lcp">—</b></span><span>CLS : <b id="speed-cls">—</b></span>
+      </div>
+      <a class="text-link" href="https://pagespeed.web.dev/" target="_blank" rel="noopener noreferrer">Ouvrir Google PageSpeed Insights <span>↗</span></a>
+    </section>
+
+    <section class="tool-card" id="google-preview">
+      <p class="tool-kicker">02 · Résultat de recherche</p>
+      <h2>Prévisualiser un résultat Google</h2>
+      <div class="tool-form tool-form-two">
+        <label>Titre <span id="serp-title-count">0/60</span><input id="serp-title" maxlength="80" placeholder="Titre de votre page"></label>
+        <label>Description <span id="serp-description-count">0/160</span><textarea id="serp-description" maxlength="200" rows="3" placeholder="Résumez la page de façon claire."></textarea></label>
+      </div>
+      <div class="serp-preview" aria-label="Aperçu du résultat">
+        <span class="serp-url">https://exemple.com › page</span>
+        <strong id="serp-title-preview">Titre de votre page</strong>
+        <p id="serp-description-preview">La description de votre page apparaîtra ici.</p>
+      </div>
+      <small>Les limites de caractères sont des repères : Google peut afficher un extrait différent.</small>
+    </section>
+
+    <section class="tool-card" id="roas">
+      <p class="tool-kicker">03 · Rentabilité publicitaire</p>
+      <h2>Calculer le ROAS et le seuil de rentabilité</h2>
+      <p>Estimation simplifiée : elle ne comprend pas les coûts fixes, les retours ni les taxes.</p>
+      <form class="tool-form tool-form-two" id="roas-form">
+        <label>Budget publicitaire (TND)<input id="roas-spend" type="number" min="1" step="1" value="1000"></label>
+        <label>Coût moyen par clic (TND)<input id="roas-cpc" type="number" min="0.01" step="0.01" value="1"></label>
+        <label>Taux de conversion (%)<input id="roas-rate" type="number" min="0" max="100" step="0.1" value="5"></label>
+        <label>Valeur moyenne d’une commande (TND)<input id="roas-order" type="number" min="0.01" step="1" value="100"></label>
+        <label>Marge brute (%)<input id="roas-margin" type="number" min="0" max="100" step="1" value="35"></label>
+      </form>
+      <div class="tool-result tool-metrics" id="roas-result" aria-live="polite">
+        <div><span>Conversions estimées</span><b id="roas-conversions"></b></div>
+        <div><span>Revenu estimé</span><b id="roas-revenue"></b></div>
+        <div><span>ROAS estimé</span><b id="roas-ratio"></b></div>
+        <div><span>CPA au seuil de rentabilité</span><b id="roas-break-even"></b></div>
+        <div><span>Marge après publicité</span><b id="roas-profit"></b></div>
+      </div>
+    </section>
+
+    <section class="tool-card" id="utm">
+      <p class="tool-kicker">04 · Mesure de campagne</p>
+      <h2>Créer un lien UTM</h2>
+      <form class="tool-form tool-form-two" id="utm-form">
+        <label class="tool-wide">URL de destination<input id="utm-url" type="url" placeholder="https://exemple.com/page" required></label>
+        <label>Source<input id="utm-source" placeholder="newsletter"></label>
+        <label>Support<input id="utm-medium" placeholder="email"></label>
+        <label>Campagne<input id="utm-campaign" placeholder="lancement-ete"></label>
+        <label>Terme (facultatif)<input id="utm-term" placeholder="mot-cle"></label>
+        <label>Contenu (facultatif)<input id="utm-content" placeholder="bouton-principal"></label>
+        <button class="button button-primary" type="submit">Générer le lien</button>
+      </form>
+      <div class="tool-output-label" id="utm-result" hidden>
+        <label for="utm-output">Lien prêt à copier</label>
+        <textarea id="utm-output" rows="3" readonly></textarea>
+        <button class="button button-outline" type="button" data-copy-target="utm-output">Copier</button>
+      </div>
+      <p class="tool-status" id="copy-status" aria-live="polite" hidden></p>
+    </section>
+
+    <section class="tool-card" id="brief">
+      <p class="tool-kicker">05 · Préparation</p>
+      <h2>Générer un brief de campagne</h2>
+      <form class="tool-form tool-form-two" id="brief-form">
+        <label data-brief-label="Entreprise">Entreprise<input required></label>
+        <label data-brief-label="Objectif">Objectif<input required placeholder="Ex. demandes de devis"></label>
+        <label data-brief-label="Audience">Audience<input placeholder="Ex. responsables RH en Tunisie"></label>
+        <label data-brief-label="Canal envisagé">Canal envisagé<select><option>À définir</option><option>Google Ads</option><option>Meta Ads</option><option>LinkedIn Ads</option><option>SEO</option></select></label>
+        <label data-brief-label="Budget publicitaire mensuel (TND)">Budget mensuel (TND)<input type="number" min="0" step="10"></label>
+        <label class="tool-wide" data-brief-label="Contexte et offre">Contexte et offre<textarea rows="3" placeholder="Décrivez le service, la zone et la période."></textarea></label>
+        <button class="button button-primary" type="submit">Préparer le brief</button>
+      </form>
+      <div class="tool-output-label" id="brief-result" hidden>
+        <label for="brief-output">Votre brief</label><textarea id="brief-output" rows="7" readonly></textarea>
+        <a class="button button-outline" id="brief-whatsapp" href="https://wa.me/21654123866" target="_blank" rel="noopener noreferrer">Continuer sur WhatsApp ↗</a>
+      </div>
+    </section>
+
+    <section class="tool-card" id="maturity">
+      <p class="tool-kicker">06 · Diagnostic</p>
+      <h2>Évaluer la maturité marketing</h2>
+      <p>Répondez à dix questions pour obtenir un premier score indicatif.</p>
+      <form class="tool-form" id="maturity-form">
+        <button class="button button-primary" type="submit">Voir mon score</button>
+      </form>
+      <p class="tool-status" id="maturity-result" aria-live="polite" hidden></p>
+    </section>
+
+    <section class="tool-card" id="seo-vs-ads">
+      <p class="tool-kicker">07 · Choix de canal</p>
+      <h2>Comparer SEO et publicité</h2>
+      <p>Déplacez les curseurs. La recommandation est un point de départ à adapter à votre activité.</p>
+      <form class="tool-form" id="compare-form">
+        <label>Délai avant les résultats : <output id="compare-horizon-value">6</output>/10<input id="compare-horizon" type="range" min="1" max="10" value="6" oninput="document.getElementById('compare-horizon-value').value=this.value"></label>
+        <label>Urgence du besoin : <output id="compare-urgency-value">5</output>/10<input id="compare-urgency" type="range" min="1" max="10" value="5" oninput="document.getElementById('compare-urgency-value').value=this.value"></label>
+        <label>Budget de test disponible : <output id="compare-budget-value">5</output>/10<input id="compare-budget" type="range" min="1" max="10" value="5" oninput="document.getElementById('compare-budget-value').value=this.value"></label>
+      </form>
+      <p class="tool-result" id="compare-result" aria-live="polite"></p>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><a class="brand" href="index.html"><span class="brand-mark">AY</span><span>Ayoub Yatouji</span></a><p>© <span id="year"></span> Ayoub Yatouji</p><a class="back-top" href="index.html#contact">Parlons de votre projet</a></div></footer>
+  <script src="site.js?v=5"></script>
+  <script src="tools.js?v=1"></script>
+  <script src="i18n.js?v=3"></script>
+</body>
+</html>
