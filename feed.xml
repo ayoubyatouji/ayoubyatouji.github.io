@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Notes SEO &amp; marketing — Ayoub Yatouji</title>
+    <link>https://ayoubyatouji.github.io/</link>
+    <description>Articles sur le SEO, le contenu et l’automatisation.</description>
+    <language>fr</language>
+    <item>
+      <title>Pourquoi commencer une stratégie SEO par un audit ?</title>
+      <link>https://ayoubyatouji.github.io/article-audit-seo.html</link>
+      <guid>https://ayoubyatouji.github.io/article-audit-seo.html</guid>
+      <description>Un audit SEO évite d’optimiser à l’aveugle et débouche sur un plan d’action.</description>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pages piliers et maillage interne : organiser son contenu</title>
+      <link>https://ayoubyatouji.github.io/article-pages-piliers.html</link>
+      <guid>https://ayoubyatouji.github.io/article-pages-piliers.html</guid>
+      <description>Structurer un site en pages piliers et pages satellites reliées entre elles.</description>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEO et GEO : comment évolue la visibilité en ligne ?</title>
+      <link>https://ayoubyatouji.github.io/article-seo-geo.html</link>
+      <guid>https://ayoubyatouji.github.io/article-seo-geo.html</guid>
+      <description>Comprendre les liens entre référencement classique et moteurs génératifs.</description>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

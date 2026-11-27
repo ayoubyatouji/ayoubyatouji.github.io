@@ -1,28 +1,26 @@
 # Portfolio Ayoub Yatouji
 
-Site vitrine statique en HTML, CSS et JavaScript. Aucun framework ni abonnement nécessaire.
+Site portfolio bilingue statique en HTML, CSS et JavaScript. Aucun framework ni étape de compilation n’est nécessaire.
 
-## Avant publication
-1. Ouvrir `index.html` et remplacer `VOTRE-EMAIL@exemple.com` par votre adresse professionnelle.
-2. Remplacer le lien LinkedIn `href="#"` par l'URL exacte de votre profil.
-3. Remplacer `VOTRE-IDENTIFIANT` dans `canonical` et `og:url` par votre identifiant GitHub Pages.
-4. Vérifier les descriptions des projets et ne conserver que les missions que vous avez réellement réalisées.
-5. Ajouter votre CV en PDF dans le dossier du site si vous souhaitez proposer un bouton de téléchargement.
+## Tester localement
 
-## Tester sur votre ordinateur
-Double-cliquer sur `index.html` pour l'ouvrir dans un navigateur.
+Ouvrir `index.html` dans un navigateur ou lancer un serveur local dans ce dossier. Le test PageSpeed et les polices Google Fonts nécessitent une connexion Internet.
 
-## Publier gratuitement avec GitHub Pages
-1. Créer un compte sur https://github.com/
-2. Créer un nouveau dépôt public nommé exactement `VOTRE-IDENTIFIANT.github.io` (remplacer par votre nom d'utilisateur GitHub).
-3. Importer les fichiers `index.html`, `style.css`, `script.js` et ce README à la racine du dépôt.
-4. Dans le dépôt, ouvrir **Settings → Pages**.
-5. Dans **Build and deployment**, choisir **Deploy from a branch**, puis `main` et `/ (root)`, et enregistrer.
-6. Attendre le déploiement. Le site sera publié à `https://VOTRE-IDENTIFIANT.github.io/`.
+## Publier avec GitHub Pages
 
-La publication est gratuite pour un dépôt public avec GitHub Pages. L'indexation Google n'est pas instantanée ni garantie : après publication, ajouter l'URL dans Google Search Console.
+1. Créer un dépôt GitHub nommé exactement `ayoubyatouji.github.io`.
+2. Importer **tout le contenu** de ce dossier à la racine du dépôt, en conservant le dossier `assets`.
+3. Dans **Settings → Pages**, choisir **Deploy from a branch**, la branche `main` et `/ (root)`.
+4. Attendre la fin du déploiement. Le site sera disponible sur [https://ayoubyatouji.github.io/](https://ayoubyatouji.github.io/).
 
-## Notes
-- Le site n'utilise pas de formulaire backend. Le lien e-mail ouvre le logiciel de messagerie du visiteur.
-- Les polices Google Fonts nécessitent une connexion Internet ; le site reste lisible avec les polices de secours.
-- Les trois cartes du blog sont des sujets éditoriaux à développer, pas des articles déjà publiés.
+La page `index.html` doit rester à la racine. Aucune commande de build n’est requise.
+
+## Avant de rendre le dépôt public
+
+- Les PDF du site, dont les CV et le mémoire, seront eux aussi accessibles publiquement.
+- Les projets et résultats affichés doivent correspondre à des informations que vous êtes autorisé à partager.
+- Le formulaire prépare un message WhatsApp ; il ne l’envoie pas avant confirmation dans WhatsApp.
+- Le test PageSpeed transmet l’URL saisie à Google uniquement après consentement et peut être limité par le quota gratuit.
+- Les polices Google Fonts nécessitent une connexion Internet ; des polices de secours sont prévues.
+
+Les recommandations LinkedIn, témoignages approuvés et captures avant/après ne sont pas inclus sans preuve et autorisation.

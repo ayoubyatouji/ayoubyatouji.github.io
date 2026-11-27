@@ -1,0 +1,59 @@
+{
+  "name": "Exemple de brief marketing fictif",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manual-trigger-demo",
+      "name": "Déclenchement manuel",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "brief-title",
+              "name": "campaignName",
+              "value": "Campagne fictive à personnaliser",
+              "type": "string"
+            },
+            {
+              "id": "brief-status",
+              "name": "status",
+              "value": "example-only",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "set-example-brief",
+      "name": "Créer un brief fictif",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [500, 300]
+    }
+  ],
+  "connections": {
+    "Déclenchement manuel": {
+      "main": [
+        [
+          {
+            "node": "Créer un brief fictif",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "templateCredsSetupCompleted": false
+  }
+}
