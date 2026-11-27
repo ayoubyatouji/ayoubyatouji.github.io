@@ -1,0 +1,79 @@
+{
+  "verifiedOn": "2026-11-27",
+  "notice": "Specification and price data below were checked against provider documentation on the stated date. These are vendor-published claims, not independent test results; details can change.",
+  "models": [
+    {
+      "id": "gpt-6.2-astra",
+      "provider": "OpenAI",
+      "name": "GPT-6.2 Astra",
+      "modelId": "gpt-6.2-astra",
+      "contextWindow": "1,050,000 tokens",
+      "modalities": "Text and image input; text output",
+      "apiAvailability": "Responses and Chat Completions endpoints are listed as supported by the provider.",
+      "priceNote": "Provider lists USD $8 input / $40 output per 1M text tokens at standard rates; processing tiers and long-context pricing differ.",
+      "sourceUrl": "https://developers.openai.com/api/docs/models/gpt-6.2-astra",
+      "pricingUrl": "https://developers.openai.com/api/docs/pricing",
+      "claimType": "Provider-published; not independently benchmarked."
+    },
+    {
+      "id": "claude-opus-5.5",
+      "provider": "Anthropic",
+      "name": "Claude Opus 5.5",
+      "modelId": "claude-opus-5-5",
+      "contextWindow": "1M tokens",
+      "modalities": "Provider describes vision-heavy workflows; check the current model reference for accepted inputs.",
+      "apiAvailability": "Model ID and API documentation are provided by Anthropic.",
+      "priceNote": "Provider lists USD $4 input / $20 output per million tokens before caching and batch adjustments.",
+      "sourceUrl": "https://platform.claude.com/docs/en/models/opus-5-5/overview",
+      "pricingUrl": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "claimType": "Provider-published; not independently benchmarked."
+    },
+    {
+      "id": "gemini-4-carbon",
+      "provider": "Google AI",
+      "name": "Gemini 4 Carbon",
+      "modelId": "gemini-4-carbon",
+      "contextWindow": "1,048,576 tokens",
+      "modalities": "Text, image, video, audio, and PDF input; text output, according to provider documentation.",
+      "apiAvailability": "Listed in the Google AI model catalogue; verify current API access and regional availability.",
+      "priceNote": "No price copied here; use the official pricing page for current rates and conditions.",
+      "sourceUrl": "https://aistudio.google.com/docs/models/gemini-4-carbon",
+      "pricingUrl": "https://ai.google.dev/gemini-api/docs/pricing",
+      "claimType": "Provider-published; not independently benchmarked."
+    }
+  ],
+  "providers": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "modelsUrl": "https://developers.openai.com/api/docs/models",
+      "apiUrl": "https://developers.openai.com/api/docs/api-reference/responses",
+      "pricingUrl": "https://developers.openai.com/api/docs/pricing",
+      "notes": "Use the provider's current model documentation to verify endpoints, modalities, context limits, and billing tiers."
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "modelsUrl": "https://platform.claude.com/docs/en/models/overview",
+      "apiUrl": "https://platform.claude.com/docs/en/api/overview",
+      "pricingUrl": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "notes": "Consult the current model documentation for model IDs, supported inputs, limits, and API availability."
+    },
+    {
+      "id": "google",
+      "name": "Google AI",
+      "modelsUrl": "https://aistudio.google.com/docs/models",
+      "apiUrl": "https://ai.google.dev/api",
+      "pricingUrl": "https://ai.google.dev/gemini-api/docs/pricing",
+      "notes": "Check the current API documentation for supported features, limits, regional availability, and pricing."
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "modelsUrl": "https://docs.mistral.ai/models/",
+      "apiUrl": "https://docs.mistral.ai/api/",
+      "pricingUrl": "https://mistral.ai/products/la-plateforme#pricing",
+      "notes": "Check official model cards and API documentation for current capabilities and availability."
+    }
+  ]
+}

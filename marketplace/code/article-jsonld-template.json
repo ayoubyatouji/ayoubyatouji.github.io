@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "REPLACE_WITH_VISIBLE_ARTICLE_TITLE",
+  "description": "REPLACE_WITH_VISIBLE_ARTICLE_DESCRIPTION",
+  "image": ["https://example.invalid/path/to/actual-article-image.jpg"],
+  "datePublished": "YYYY-MM-DD",
+  "dateModified": "YYYY-MM-DD",
+  "author": {
+    "@type": "Person",
+    "name": "REPLACE_WITH_REAL_AUTHOR_NAME",
+    "url": "https://example.invalid/author-profile"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.invalid/replace-with-canonical-article-url"
+  }
+}

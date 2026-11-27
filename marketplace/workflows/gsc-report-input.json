@@ -1,0 +1,39 @@
+{
+  "name": "Search Console Report Input Template (Demo)",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "c0d83036-3f9f-4d6c-bff7-f9c2a525b102",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {"id": "fae6e5f1-b821-4a81-bac6-eb9991feef43", "name": "propertyUrl", "value": "sc-domain:example.invalid", "type": "string"},
+            {"id": "937f15f7-f61b-4ad3-a297-a6eb5da24bd9", "name": "startDate", "value": "YYYY-MM-DD", "type": "string"},
+            {"id": "30c5648f-37d6-4c44-82c1-5df608a73359", "name": "endDate", "value": "YYYY-MM-DD", "type": "string"},
+            {"id": "119ea071-7b14-494c-bfba-3f346f8c340f", "name": "connectedToGoogle", "value": false, "type": "boolean"}
+          ]
+        },
+        "options": {}
+      },
+      "id": "ae608df9-4c1b-46c2-9ee5-836bfce3c8b3",
+      "name": "Prepare Report Request",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [500, 300]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{"node": "Prepare Report Request", "type": "main", "index": 0}]]
+    }
+  },
+  "active": false,
+  "settings": {"executionOrder": "v1"},
+  "meta": {"templateCredsSetupCompleted": false}
+}

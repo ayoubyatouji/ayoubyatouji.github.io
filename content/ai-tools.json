@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "1.0",
+  "verifiedOn": "2026-11-27",
+  "notice": "Static directory of official product and documentation links. This is not a live feed or endorsement. Product capabilities, access, terms, and prices can change; check the official pages before making a decision.",
+  "tools": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "category": "AI assistant",
+      "summary": "OpenAI's official ChatGPT product. Check the linked product and help pages for current access, available features, and terms.",
+      "officialUrl": "https://chatgpt.com/",
+      "sourceUrl": "https://openai.com/chatgpt/",
+      "pricingUrl": "https://openai.com/chatgpt/pricing/",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Web", "Official apps (see product page)"],
+      "pricingNote": "No price claims are made here; verify current plans on the official pricing page."
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "category": "AI assistant",
+      "summary": "Anthropic's official Claude product and documentation entry point. Check official documentation for current model and product details.",
+      "officialUrl": "https://claude.ai/",
+      "sourceUrl": "https://www.anthropic.com/claude",
+      "pricingUrl": "https://www.anthropic.com/pricing",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Web", "Official apps (see product page)"],
+      "pricingNote": "No price claims are made here; verify current plans on the official pricing page."
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "category": "AI assistant",
+      "summary": "Google's official Gemini entry point. Availability and included features can depend on region and account; check the official product information.",
+      "officialUrl": "https://gemini.google.com/",
+      "sourceUrl": "https://gemini.google.com/",
+      "pricingUrl": "https://gemini.google/subscriptions/",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Web", "Official apps (see product page)"],
+      "pricingNote": "No price claims are made here; verify current plans and regional availability on official pages."
+    },
+    {
+      "id": "hugging-face",
+      "name": "Hugging Face",
+      "category": "Open-source AI platform",
+      "summary": "A platform where the machine-learning community shares models, datasets, and applications. Review each project's license and usage conditions.",
+      "officialUrl": "https://huggingface.co/",
+      "sourceUrl": "https://huggingface.co/",
+      "pricingUrl": "https://huggingface.co/pricing",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Web", "Developer tools (see official documentation)"],
+      "pricingNote": "No price claims are made here; hosted services and individual projects may have separate terms."
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "category": "Model runtime",
+      "summary": "An official entry point for running and building with open models. Review hardware needs, model licenses, and the current installation documentation.",
+      "officialUrl": "https://ollama.com/",
+      "sourceUrl": "https://ollama.com/",
+      "pricingUrl": "https://ollama.com/pricing",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["See current installation and compatibility documentation"],
+      "pricingNote": "No price claims are made here; check official terms for current local and hosted options."
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "category": "Workflow automation",
+      "summary": "An automation platform for designing and operating workflows. Review node behavior, credentials, data handling, and hosting requirements before use.",
+      "officialUrl": "https://n8n.io/",
+      "sourceUrl": "https://docs.n8n.io/",
+      "pricingUrl": "https://n8n.io/pricing/",
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Cloud and self-hosted options (check current official documentation)"],
+      "pricingNote": "No price claims are made here; hosting options and terms may differ."
+    },
+    {
+      "id": "model-context-protocol",
+      "name": "Model Context Protocol (MCP)",
+      "category": "Open protocol",
+      "summary": "An open-source standard for connecting AI applications with external systems. A protocol specification, not a model or standalone assistant.",
+      "officialUrl": "https://modelcontextprotocol.io/",
+      "sourceUrl": "https://modelcontextprotocol.io/",
+      "pricingUrl": null,
+      "verifiedOn": "2026-11-27",
+      "platforms": ["Implementation-specific; check the client and server documentation"],
+      "pricingNote": "MCP is a protocol; implementations and hosted services may have separate terms."
+    }
+  ],
+  "officialUpdates": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/",
+      "sourceUrl": "https://openai.com/news/",
+      "verifiedOn": "2026-11-27",
+      "description": "Official announcements and research from OpenAI. Open the source for publication dates and details."
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "verifiedOn": "2026-11-27",
+      "description": "Official announcements from Anthropic. This static directory does not import or summarize live news."
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/google-labs/",
+      "sourceUrl": "https://blog.google/technology/google-labs/",
+      "verifiedOn": "2026-11-27",
+      "description": "Official Google product and research updates. Verify publication date and details on the source page."
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "verifiedOn": "2026-11-27",
+      "description": "Official posts and project updates from Hugging Face. Individual community projects require separate review."
+    }
+  ],
+  "releaseSources": [
+    {
+      "name": "OpenAI product release notes",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "verifiedOn": "2026-11-27",
+      "description": "Publisher-maintained release notes. This site does not copy or automatically summarize individual release entries."
+    },
+    {
+      "name": "Anthropic announcements",
+      "url": "https://www.anthropic.com/news",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "verifiedOn": "2026-11-27",
+      "description": "Official announcements; check each announcement's publication date and details on the source page."
+    },
+    {
+      "name": "Google Gemini updates",
+      "url": "https://blog.google/products/gemini/",
+      "sourceUrl": "https://blog.google/products/gemini/",
+      "verifiedOn": "2026-11-27",
+      "description": "Official Google product updates; this directory does not constitute a live release feed."
+    },
+    {
+      "name": "Hugging Face blog",
+      "url": "https://huggingface.co/blog",
+      "sourceUrl": "https://huggingface.co/blog",
+      "verifiedOn": "2026-11-27",
+      "description": "Official articles and platform announcements. Review project-level license and source information separately."
+    }
+  ],
+  "openSourceProjects": [
+    {
+      "name": "Hugging Face Hub",
+      "url": "https://huggingface.co/",
+      "sourceUrl": "https://huggingface.co/",
+      "verifiedOn": "2026-11-27",
+      "description": "Community platform for models, datasets, and applications. A platform listing does not mean every hosted project has the same license."
+    },
+    {
+      "name": "Ollama",
+      "url": "https://ollama.com/",
+      "sourceUrl": "https://ollama.com/",
+      "verifiedOn": "2026-11-27",
+      "description": "Official entry point for running and building with open models. Check the runtime and each model's license and requirements."
+    },
+    {
+      "name": "Model Context Protocol",
+      "url": "https://modelcontextprotocol.io/",
+      "sourceUrl": "https://modelcontextprotocol.io/",
+      "verifiedOn": "2026-11-27",
+      "description": "An open protocol for connecting AI applications with external systems. Implementations and connected servers need separate security review."
+    }
+  ],
+  "reviewMethod": [
+    "Define one concrete task and the acceptance criteria before choosing a product.",
+    "Use representative, fictional or redacted inputs and the same test set for each candidate.",
+    "Record product, model/version, configuration, and test date.",
+    "Check outputs against trusted sources and record errors, editing effort, and limitations.",
+    "Review data handling, terms, platform compatibility, and cost on official pages.",
+    "Publish a product review only after a repeatable test; do not infer a general ranking from one task."
+  ],
+  "useCases": [
+    {
+      "title": "Organize supplied SEO evidence",
+      "description": "Use a prompt or skill to structure manually collected, authorized page or crawl evidence into questions for a human reviewer. It does not crawl a site.",
+      "resourceIds": ["agent-seo-audit", "skill-technical-seo"]
+    },
+    {
+      "title": "Prepare a content brief",
+      "description": "Turn an approved audience, intent, product facts, and source list into an outline that an editor can review before drafting.",
+      "resourceIds": ["agent-content-writer", "skill-content-optimization"]
+    },
+    {
+      "title": "Plan a campaign test",
+      "description": "Record an objective, approved claims, audience assumptions, conversion event, and a creative hypothesis before entering an advertising platform.",
+      "resourceIds": ["agent-ads-assistant", "skill-meta-ads-copy", "workflow-campaign-brief"]
+    },
+    {
+      "title": "Summarize a local reporting file",
+      "description": "Run a standard-library example locally against a CSV you are authorized to use; the sample script does not upload data.",
+      "resourceIds": ["code-csv-summary"]
+    }
+  ],
+  "comparisonGuidance": [
+    "Choose a concrete task before comparing tools.",
+    "Use the same sanitized inputs and success criteria for each test.",
+    "Record product, model/version, configuration, and test date.",
+    "Check outputs against trusted sources and inspect privacy, terms, and integration requirements.",
+    "Do not interpret a small test as a universal ranking."
+  ]
+}
